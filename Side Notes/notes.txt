@@ -1,0 +1,3 @@
+What is code complexity (time and space)?
+    time complexity =! actual time 
+    ^^ it tells the behaviour of the code, as a function based on number of inputs.
