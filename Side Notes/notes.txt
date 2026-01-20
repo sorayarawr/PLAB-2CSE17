@@ -1,3 +1,14 @@
 What is code complexity (time and space)?
     time complexity =! actual time 
     ^^ it tells the behaviour of the code, as a function based on number of inputs.
+    best- Omega
+    Worst- Big-O
+    Average- Theta
+
+    Constant time complexity = O(1) ----> best complexity
+    Logarithmic = O(Log n) -----> generally used for Binary Search/ BST
+    Linear time complexity = O(n) -----> Simple for loops
+    O(n log n) ----> used in all kinds of sorting, generally
+    Quadratic = O(n^2) ----> Generally try to avoid ts, used in nested loops
+    Exponential = O(2^n) -----> Recursive functions!
+    O(n!) -----> THE worst shit possible lmao :skull:
