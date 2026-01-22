@@ -1,0 +1,9 @@
+Types of assignments:
+    1. Internal class Assignments
+    2. Homework Assignments
+
+Assignments using GitHub(take care of Commit History, that's the important part!)
+
+Make Two folders for both types of assignments! (HW and Internal)
+    Make nested folders in each directory (with Assignment Numbers)^^ 
+        Add assignment code within them.

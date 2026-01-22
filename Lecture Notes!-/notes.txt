@@ -1,4 +1,5 @@
 What is code complexity (time and space)?
+    Time complexity describes how the running time of a program increases with the size of the input.
     time complexity =! actual time 
     ^^ it tells the behaviour of the code, as a function based on number of inputs.
     best- Omega
@@ -12,3 +13,12 @@ What is code complexity (time and space)?
     Quadratic = O(n^2) ----> Generally try to avoid ts, used in nested loops
     Exponential = O(2^n) -----> Recursive functions!
     O(n!) -----> THE worst shit possible lmao :skull:
+
+
+    Space Complexity! ----> depends on auxiliary memory (aside from the inputs)
+    describes how much extra memory a program uses as the input size grows
+
+why python?
+    because it's f l e x i b l e 
+
+Datatypes and Variables!
