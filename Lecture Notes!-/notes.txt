@@ -22,3 +22,16 @@ why python?
     because it's f l e x i b l e 
 
 Datatypes and Variables!
+
+
+print(True or False and False)
+---> False
+
+x = [0, 1, 2]
+y = x
+y[0] = 5
+print(x[0])
+---> answer is 5, 
+    because y=x only makes y point to X, and does NOT make a copy of X on Y
+
+
