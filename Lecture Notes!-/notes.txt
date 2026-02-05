@@ -35,3 +35,13 @@ print(x[0])
     because y=x only makes y point to X, and does NOT make a copy of X on Y
 
 
+----> Learn Min and Max heap!
+
+Python can only implement Min heap by using the heapify method
+in case of Min Heap, the root element is the smallest element and vice-versa for Max Heap
+
+using Heaps are way more optimized for finding the smallest Kth element, when the value of K is small (K<<n)
+For larger values of K, using arrays is preferred
+
+Heapq is the library used for dealing with Heaps
+---> import Heapq
